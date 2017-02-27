@@ -1,0 +1,6 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/WinQuant/arsenal-data.git
+[submodule "ctp"]
+	path = ctp
+	url = https://github.com/WinQuant/arsenal-ctp-driver.git
